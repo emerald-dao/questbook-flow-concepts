@@ -23,7 +23,7 @@ It's also important to note that there are many different Blockchains out there.
 
 ## Smart Contracts? Ooo, that sounds cool.
 
-<img src="https://raw.githubusercontent.com/emerald-dao/questbook-flow-concepts/main/learn_src/learn_assets/smart_contract.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/emerald-dao/questbook-flow-concepts/main/learn_src/learn_assets/smart contract.png" alt="drawing" width="600"/>
 
 Why yes, yes it is. Smart Contracts are very cool. Smart Contracts are programs, or "rulebooks" that developers make. Developers create them because it allows us to specify some functionality that users can interact with. For example, if I want to make an application that allows users to store their favourite fruit on the Blockchain, I need to make a Smart Contract that:
 
