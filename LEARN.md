@@ -2,6 +2,8 @@
 
 Hello! In this quest, you will be learning the fundamental blockchain concepts necessary to understanding the Flow blockchain. There will be no coding.
 
+This quest was written by your *best* friends at Emerald City. If you have any questions along the way, don't be afraid to ask in our <a href="https://discord.gg/emeraldcity" target="_blank">Discord</a>. We would be so happy to help you along your journey.
+
 ## What the heck is a Blockchain?
 
 <img src="https://raw.githubusercontent.com/emerald-dao/questbook-flow-concepts/main/learn_src/learn_assets/blockchain.png" alt="drawing" width="600"/>
@@ -74,6 +76,8 @@ On Flow, we will be making our own Smart Contracts, specifically on the Flow Blo
 Although all of this may sound very complicated, it really isn't. And if you still don't understand ANY of this, that's totally okay. Sometimes it's better to jump into some examples to make things make more sense. You can do that by exploring the quests ahead.
 
 ## Quests
+
+You can do these quests on your own, and submit them for review in the <a href="https://discord.gg/emeraldcity" target="_blank">Emerald City Discord</a> where we will review and give feedback on all your responses.
 
 1. Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp
 
